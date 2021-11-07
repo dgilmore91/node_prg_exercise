@@ -1,0 +1,11 @@
+#root-div {
+  margin: 1em;
+}
+
+input.error {
+  border-color: red;
+}
+
+.hidden {
+  display: none;
+}
